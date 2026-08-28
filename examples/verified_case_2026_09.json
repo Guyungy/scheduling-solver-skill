@@ -1,0 +1,32 @@
+{
+  "period": {
+    "year": 2026,
+    "month": 9,
+    "days": 30
+  },
+  "employee_count": 12,
+  "shifts": {
+    "day": {
+      "min": 5,
+      "target": 5
+    },
+    "middle": {
+      "min": 1,
+      "target": 1
+    },
+    "night": {
+      "min": 3,
+      "target": 3
+    }
+  },
+  "compromise": {
+    "employees_rest_8_days": 6,
+    "employees_rest_7_days": 6
+  },
+  "verified_result": {
+    "daily_working": 9,
+    "daily_rest": 3,
+    "monthly_work_slots": 270,
+    "night_per_employee": "7-8"
+  }
+}
